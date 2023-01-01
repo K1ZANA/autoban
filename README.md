@@ -7,7 +7,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/K1ZANA/autoban?style=for-the-badge)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/K1ZANA/autoban?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/K1ZANA/autoban?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/x_aarya_0121?logoColor=blue&style=for-the-badge)
 
 This Discord bot is designed to **automatically ban a specific user** when they join the server.
 
