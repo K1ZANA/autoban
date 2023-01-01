@@ -1,11 +1,9 @@
 # Discord Bot: Autoban
 
 ![GitHub](https://img.shields.io/github/license/K1ZANA/autoban?style=for-the-badge)
-
 ![GitHub all releases](https://img.shields.io/github/downloads/K1ZANA/autoban/total?style=for-the-badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/K1ZANA/autoban?style=for-the-badge) 
-
 ![GitHub issues](https://img.shields.io/github/issues-raw/K1ZANA/autoban?style=for-the-badge)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/K1ZANA/autoban?style=for-the-badge)
@@ -14,7 +12,7 @@
 This Discord bot is designed to **automatically ban a specific user** when they join the server.
 
 <p align="center">
-  <img src="https://i.imgur.com/8IWwMxZ.png" alt="Autoban">
+  <img src="https://i.imgur.com/zd8zOeA.png" alt="Autoban">
 </p>
 
 ## Prerequisites
